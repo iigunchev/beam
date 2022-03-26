@@ -212,3 +212,6 @@
     @apply focus-visible:shadow-none;
   }
 }
+.new-style {
+  display: flex;
+}
